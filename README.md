@@ -6,7 +6,7 @@
 
 ## _Just-add-water CSS animation_
 
-## Installations
+## Installationsa
 
 Install with npm:
 
