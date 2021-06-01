@@ -1,4 +1,4 @@
-# Animate.cssa
+# Animate.css
 
 [![GitHub Version](https://img.shields.io/github/release/daneden/animate.css.svg?style=for-the-badge)](https://github.com/daneden/animate.css) [![Github Star](https://img.shields.io/github/stars/daneden/animate.css.svg?style=for-the-badge)](https://github.com/daneden/animate.css) [![Github Fork](https://img.shields.io/github/forks/daneden/animate.css.svg?style=for-the-badge)](https://github.com/daneden/animate.css) [![License](https://img.shields.io/github/license/daneden/animate.css.svg?style=for-the-badge)](https://github.com/daneden/animate.css)
 
@@ -6,7 +6,7 @@
 
 ## _Just-add-water CSS animation_
 
-## Installation
+## Installations
 
 Install with npm:
 
