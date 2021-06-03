@@ -3,7 +3,9 @@
     "description": "A cross-browser library of CSS animations. As easy to use as an easy thing. ",
     "type": "library",
     "license": "MIT",
-    "author": {
-        "name": "Animate.css"
-    }
+    "author": [
+        {
+            "name": "Animate.css"
+        }
+    ]
 }
