@@ -11,6 +11,7 @@
 ```
 composer require gaomingcode/animate.css
 ```
+###
 
 > If you need the old docs - v3.x.x and under - you can find it [here](https://github.com/animate-css/animate.css/tree/a8d92e585b1b302f7749809c3308d5e381f9cb17).
 
