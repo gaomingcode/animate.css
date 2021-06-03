@@ -1,4 +1,6 @@
 {
-  "name":"gaomingcode/animate.css",
-  "type": "library"
+    "name": "gaomingcode/animate.css",
+    "description": "A cross-browser library of CSS animations. As easy to use as an easy thing. ",
+    "type": "library",
+    "license": "MIT"
 }
